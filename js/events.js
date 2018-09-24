@@ -16,7 +16,10 @@ function pressIt() {
     alert('Pesciolini');
   });
 }
-
+function submitIt() {
+  
+  alert
+}
 
 $(document).ready(function(){
 
